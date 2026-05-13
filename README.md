@@ -15,3 +15,8 @@ Wang, L.H., Yarushina, V.M., Alkhimenkov, Y. & Podladchikov, Y. (2022) Physics-i
 
 Räss L., Duretz T., Podladchikov Y.Y., 2019. Resolving hydromechanical coupling in two and three dimensions: spontaneous channelling of porous fluids owing to decompaction weakening, Geophys. J. Int., 218, 1591–1616. 10.1093/gji/ggz239
 
+
+
+
+Todo:
+add a title for each lesson.  The name of the file would not be show when one print it the notebook.
